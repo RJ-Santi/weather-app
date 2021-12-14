@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #36454F;
+  }
+}
+
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+}
