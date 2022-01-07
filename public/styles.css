@@ -2,8 +2,20 @@
   body {
     background-color: #36454F;
   }
+
+  .bottom-container {
+    background-color: #344353;
+    color: white;
+  }
 }
 
+body {
+  text-align: center;
+}
+
+.title {
+  color: white;
+}
 
 .vertical-center {
   min-height: 100%;
